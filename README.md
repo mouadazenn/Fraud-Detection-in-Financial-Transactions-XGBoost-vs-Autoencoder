@@ -51,3 +51,5 @@ We compare a **supervised approach (XGBoost)** with an **unsupervised approach (
    ```bash
    git clone https://github.com/your-username/fraud-detection-xgb-ae.git
    cd fraud-detection-xgb-ae
+pip install -r requirements.txt
+jupyter notebook notebook.ipynb
